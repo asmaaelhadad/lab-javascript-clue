@@ -119,7 +119,11 @@ else if(array.length == 1){
 
 
 
-function pickMystery() {}
+function pickMystery() {
+
+
+    
+}
 
 
 // ITERATION 3
